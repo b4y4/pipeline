@@ -1,4 +1,4 @@
-# Deploy git-jenkins pipeline
+# gitlab-jenkins pipeline
 
 ## ports:
 ```
